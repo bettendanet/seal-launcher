@@ -1,3 +1,3 @@
-# seal-launcher
+# Seal Launcher
 
 WIP
